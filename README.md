@@ -1,6 +1,4 @@
 # animate_car
 
-Here is a simple car which seen like a moving car. 
-I made this car with the help of CSS animations.
-On press 'ENTER' key, the car will be stop or start moving.
+Here is a simasdhfhasdbbbbbbhbhjj sdf hgvsyu7dfv yuwsavfdyusdagfyi7agy8dfv auydfhudsv husdgvfy8af86wqy7fet7wfyifhyugyusdvhusdav ty97eftyi7qfuhgs dfo8ysdahisa
 Try it
